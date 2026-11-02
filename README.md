@@ -8,6 +8,7 @@ Este repo es eso. Mis proyectos más interesantes tienen código privado (datos 
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| [Calis Trainer](proyectos/calis-trainer/) | Web y panel de administración para una entrenadora de calistenia, con investigación de marca previa (trabajo freelance entregado) | Astro, TypeScript, Sanity, Vercel |
 | [Polar Canvas](proyectos/polar-canvas/) | Sitio de portfolio bilingüe para una ilustradora, con panel de administración propio (trabajo freelance entregado) | Astro, TypeScript, React, Cloudflare R2, Vercel |
 | [Postulaciones](proyectos/postulaciones/) | Herramienta local que adapta mi CV a cada oferta de trabajo y devuelve un CV en Word, una carta y un análisis (y, si se elige, posibles preguntas de entrevista) | Node.js, Claude Code, docx |
 | [Rumbo España](proyectos/rumbo-espana/) | Sistema web local para organizar la información para vivir en España, con investigación mensual hecha por una IA | Node.js, Express, JSON, Claude Code |
